@@ -6,7 +6,7 @@ The program includes features such as adding incomes and expenses, viewing all e
 
 The goal of this project was to deepen my knowledge of Java's syntax, libraries, and features while building a practical and user-friendly tool.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=iacE5UXtH14)
 
 ---
 
