@@ -1,0 +1,3 @@
+Expense,rent,1000.00
+Expense,Tithing,250.00
+Income,2500.00
